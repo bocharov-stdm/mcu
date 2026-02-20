@@ -2,8 +2,8 @@
 #include "stdio.h"
 #include "hardware/gpio.h"
 
-#define DEVICE_NAME "nosok_pico"  # Поменяйте
-#define DEVICE_VRSION "v2.2.8"  # Тем более поменяйте
+#define DEVICE_NAME "pico p2040" 
+#define DEVICE_VRSION "v1"  
 
 const uint LED_PIN = 25;
 
@@ -13,6 +13,6 @@ int main()
     while (true)
     {
         char c = getchar();
-        printf("Received char: %c [%d]\n", c, c);
+        printf("Char is: %c , code: [%d]\n", c, c);
     }
 }

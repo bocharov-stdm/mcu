@@ -27,6 +27,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -189,6 +190,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -251,6 +253,7 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -414,6 +417,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -476,6 +480,7 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -639,6 +644,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -701,6 +707,7 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -864,6 +871,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -937,6 +945,7 @@ events:
     found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -1024,6 +1033,7 @@ events:
     found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -1145,6 +1155,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -1242,6 +1253,7 @@ events:
     found: "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ranlib.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -1341,6 +1353,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -1438,6 +1451,7 @@ events:
     found: "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-ld.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -1537,6 +1551,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -1634,6 +1649,7 @@ events:
     found: "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-readelf.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -1930,6 +1946,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -2027,6 +2044,7 @@ events:
     found: "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-addr2line.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -2322,6 +2340,7 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -2720,6 +2739,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -3117,6 +3137,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -3183,6 +3204,7 @@ events:
     found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -3270,6 +3292,7 @@ events:
     found: "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerId.cpp.in"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -3690,6 +3713,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -4087,6 +4111,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -4134,8 +4159,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr"
-      binary: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr"
+      source: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx"
+      binary: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx"
     cmakeVariables:
       CMAKE_C_FLAGS: "-mcpu=cortex-m0plus -mthumb"
       CMAKE_C_FLAGS_DEBUG: "-Og -g"
@@ -4146,13 +4171,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr'
+        Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_8376b/fast
-        C:/tools/make/make.exe  -f CMakeFiles/cmTC_8376b.dir/build.make CMakeFiles/cmTC_8376b.dir/build
-        make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr'
-        Building C object CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj
-        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_90b3f/fast
+        C:/tools/make/make.exe  -f CMakeFiles/cmTC_90b3f.dir/build.make CMakeFiles/cmTC_90b3f.dir/build
+        make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx'
+        Building C object CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj
+        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -4160,8 +4185,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\cccyTvdi.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\ccWwGLwO.s
         GNU C17 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
         
@@ -4182,14 +4207,14 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f3937ce18b4177bfd408ca565336596a
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\cccyTvdi.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\ccWwGLwO.s
         GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
         COMPILER_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-        Linking C executable cmTC_8376b.elf
-        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe" -mcpu=cortex-m0plus -mthumb  -Wl,--build-id=none -nostdlib  -v "CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj"  -o cmTC_8376b.elf
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+        Linking C executable cmTC_90b3f.elf
+        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe" -mcpu=cortex-m0plus -mthumb  -Wl,--build-id=none -nostdlib  -v "CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj"  -o cmTC_90b3f.elf
         Using built-in specs.
         COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-gcc.exe
         COLLECT_LTO_WRAPPER=c:/program\\ files\\ (x86)/gnu\\ arm\\ embedded\\ toolchain/10\\ 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe
@@ -4200,11 +4225,11 @@ events:
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
         COMPILER_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_8376b.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccz56Aci.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_8376b.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_90b3f.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccUpRrU0.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_90b3f.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj
         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_8376b.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-        make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_90b3f.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+        make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx'
         
       exitCode: 0
   -
@@ -4237,13 +4262,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr']
+        ignore line: [Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_8376b/fast]
-        ignore line: [C:/tools/make/make.exe  -f CMakeFiles/cmTC_8376b.dir/build.make CMakeFiles/cmTC_8376b.dir/build]
-        ignore line: [make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr']
-        ignore line: [Building C object CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj]
-        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_90b3f/fast]
+        ignore line: [C:/tools/make/make.exe  -f CMakeFiles/cmTC_90b3f.dir/build.make CMakeFiles/cmTC_90b3f.dir/build]
+        ignore line: [make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx']
+        ignore line: [Building C object CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj]
+        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -4251,8 +4276,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\cccyTvdi.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\ccWwGLwO.s]
         ignore line: [GNU C17 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
         ignore line: []
@@ -4273,8 +4298,8 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: f3937ce18b4177bfd408ca565336596a]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\cccyTvdi.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\ccWwGLwO.s]
         ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
         ignore line: [COMPILER_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/]
@@ -4286,9 +4311,9 @@ events:
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [Linking C executable cmTC_8376b.elf]
-        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe" -mcpu=cortex-m0plus -mthumb  -Wl --build-id=none -nostdlib  -v "CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj"  -o cmTC_8376b.elf]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [Linking C executable cmTC_90b3f.elf]
+        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe" -mcpu=cortex-m0plus -mthumb  -Wl --build-id=none -nostdlib  -v "CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj"  -o cmTC_90b3f.elf]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=c:/program\\ files\\ (x86)/gnu\\ arm\\ embedded\\ toolchain/10\\ 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe]
@@ -4307,12 +4332,12 @@ events:
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_8376b.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccz56Aci.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_8376b.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_8376b.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_90b3f.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccUpRrU0.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_90b3f.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_90b3f.dir/CMakeCCompilerABI.c.obj]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_8376b.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-72m5lr']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_90b3f.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-p1mlyx']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -4330,8 +4355,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9"
-      binary: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9"
+      source: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz"
+      binary: "C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "-mcpu=cortex-m0plus -mthumb"
       CMAKE_CXX_FLAGS_DEBUG: "-Og -g"
@@ -4343,13 +4368,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9'
+        Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_2a5cc/fast
-        C:/tools/make/make.exe  -f CMakeFiles/cmTC_2a5cc.dir/build.make CMakeFiles/cmTC_2a5cc.dir/build
-        make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9'
-        Building CXX object CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj
-        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_878c9/fast
+        C:/tools/make/make.exe  -f CMakeFiles/cmTC_878c9.dir/build.make CMakeFiles/cmTC_878c9.dir/build
+        make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz'
+        Building CXX object CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj
+        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -4357,8 +4382,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\cc5tn25I.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\cc9Mnyxa.s
         GNU C++14 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)
         	compiled by GNU C version 7.3-win32 20180312, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
         
@@ -4385,14 +4410,14 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: f8787892a7c5aa84cea58dce52be7118
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\cc5tn25I.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\cc9Mnyxa.s
         GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621
         COMPILER_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-        Linking CXX executable cmTC_2a5cc.elf
-        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe" -mcpu=cortex-m0plus -mthumb  -Wl,--build-id=none -nostdlib  -v "CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj"  -o cmTC_2a5cc.elf
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+        Linking CXX executable cmTC_878c9.elf
+        "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe" -mcpu=cortex-m0plus -mthumb  -Wl,--build-id=none -nostdlib  -v "CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj"  -o cmTC_878c9.elf
         Using built-in specs.
         COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-g++.exe
         COLLECT_LTO_WRAPPER=c:/program\\ files\\ (x86)/gnu\\ arm\\ embedded\\ toolchain/10\\ 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe
@@ -4403,11 +4428,11 @@ events:
         gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) 
         COMPILER_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/;c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_2a5cc.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccnvgn0U.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_2a5cc.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_878c9.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccr2QoNm.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_878c9.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj
         c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 00008000
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_2a5cc.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
-        make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_878c9.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m'
+        make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz'
         
       exitCode: 0
   -
@@ -4446,13 +4471,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9']
+        ignore line: [Change Dir: 'C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_2a5cc/fast]
-        ignore line: [C:/tools/make/make.exe  -f CMakeFiles/cmTC_2a5cc.dir/build.make CMakeFiles/cmTC_2a5cc.dir/build]
-        ignore line: [make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9']
-        ignore line: [Building CXX object CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/tools/make/make.exe -f Makefile cmTC_878c9/fast]
+        ignore line: [C:/tools/make/make.exe  -f CMakeFiles/cmTC_878c9.dir/build.make CMakeFiles/cmTC_878c9.dir/build]
+        ignore line: [make.exe[1]: Entering directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz']
+        ignore line: [Building CXX object CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"   -mcpu=cortex-m0plus -mthumb    -v -o CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-g++.exe]
         ignore line: [Target: arm-none-eabi]
@@ -4460,8 +4485,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 10.3.1 20210824 (release) (GNU Arm Embedded Toolchain 10.3-2021.10) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\cc5tn25I.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/cc1plus.exe -quiet -v -imultilib thumb/v6-m/nofp -iprefix c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../lib/gcc/arm-none-eabi/10.3.1/ -isysroot c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-m0plus -mthumb -mfloat-abi=soft -mlibarch=armv6s-m -march=armv6s-m -auxbase-strip CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\stepn\\AppData\\Local\\Temp\\cc9Mnyxa.s]
         ignore line: [GNU C++14 (GNU Arm Embedded Toolchain 10.3-2021.10) version 10.3.1 20210824 (release) (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
         ignore line: []
@@ -4488,8 +4513,8 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: f8787892a7c5aa84cea58dce52be7118]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\cc5tn25I.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv6s-m -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\stepn\\AppData\\Local\\Temp\\cc9Mnyxa.s]
         ignore line: [GNU assembler version 2.36.1 (arm-none-eabi) using BFD version (GNU Arm Embedded Toolchain 10.3-2021.10) 2.36.1.20210621]
         ignore line: [COMPILER_PATH=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/]
@@ -4501,9 +4526,9 @@ events:
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [Linking CXX executable cmTC_2a5cc.elf]
-        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe" -mcpu=cortex-m0plus -mthumb  -Wl --build-id=none -nostdlib  -v "CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj"  -o cmTC_2a5cc.elf]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-v' '-o' 'CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [Linking CXX executable cmTC_878c9.elf]
+        ignore line: ["C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe" -mcpu=cortex-m0plus -mthumb  -Wl --build-id=none -nostdlib  -v "CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj"  -o cmTC_878c9.elf]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=c:/program\\ files\\ (x86)/gnu\\ arm\\ embedded\\ toolchain/10\\ 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe]
@@ -4522,12 +4547,12 @@ events:
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_2a5cc.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccnvgn0U.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_2a5cc.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_2a5cc.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_878c9.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [ c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/collect2.exe -plugin c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/liblto_plugin-0.dll -plugin-opt=c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\stepn\\AppData\\Local\\Temp\\ccr2QoNm.res --sysroot=c:\\program files (x86)\\gnu arm embedded toolchain\\10 2021.10\\bin\\../arm-none-eabi -X -o cmTC_878c9.elf -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib/thumb/v6-m/nofp -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1 -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib -Lc:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_878c9.dir/CMakeCXXCompilerABI.cpp.obj]
         ignore line: [c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_2a5cc.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
-        ignore line: [make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-n8lig9']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m0plus' '-mthumb' '-nostdlib' '-v' '-o' 'cmTC_878c9.elf' '-mfloat-abi=soft' '-mlibarch=armv6s-m' '-march=armv6s-m']
+        ignore line: [make.exe[1]: Leaving directory `C:/My/tasks n/mcu/01-blink/build/CMakeFiles/CMakeScratch/TryCompile-rzt7tz']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -4892,6 +4917,7 @@ events:
     found: "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ar.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -5280,6 +5306,7 @@ events:
     found: "C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc-ranlib.exe"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -7824,6 +7851,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -8175,6 +8203,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -8443,6 +8472,7 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
@@ -8725,6 +8755,7 @@ events:
     search_context:
       ENV{PATH}:
         - "C:\\tools\\make"
+        - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"
         - "C:\\Program Files\\Git\\usr\\local\\bin"
@@ -8959,6 +8990,7 @@ events:
       version: "2.2.0-a4"
     search_context:
       ENV{PATH}:
+        - "C:\\tools\\make"
         - "C:\\tools\\make"
         - "C:\\Users\\stepn\\bin"
         - "C:\\Program Files\\Git\\mingw64\\bin"

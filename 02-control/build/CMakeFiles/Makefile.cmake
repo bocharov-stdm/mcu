@@ -31,7 +31,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineCompilerSupport.cmake"
-  "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeDetermineSystem.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeGenericSystem.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeInitializeConfigs.cmake"
@@ -40,7 +39,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeParseImplicitLinkInfo.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeParseLibraryArchitecture.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakePrintHelpers.cmake"
-  "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystem.cmake.in"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInformation.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cmake"
   "C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeTestASMCompiler.cmake"
@@ -267,7 +265,6 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "CMakeFiles/4.2.3/CMakeSystem.cmake"
   "CMakeFiles/4.2.3/CMakeCCompiler.cmake"
   "CMakeFiles/4.2.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.2.3/CMakeCCompiler.cmake"

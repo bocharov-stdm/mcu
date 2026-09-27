@@ -49,6 +49,7 @@ void protocol_task_handle(char* command_string)
         {
             api[i].command_callback(command_args);
             found = true;
+            break;
         }
     }
     if (!found)
